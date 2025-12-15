@@ -1,5 +1,5 @@
 """
-Laboratorio - Diplomado de mercado de valores y estrategias de inversión
+Laboratorio Financiero
 Aplicación didáctica para aprender sobre riesgos financieros
 Autor: Bolsa de Valores Quito
 Fecha: 2025
@@ -18,7 +18,7 @@ import plotly.express as px
 # ============================================================================
 
 st.set_page_config(
-    page_title="Laboratorio - Diplomado de mercado de valores y estrategias de inversión",
+    page_title="Laboratorio Financiero",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -51,7 +51,7 @@ def obtener_nivel(puntos):
 # HEADER Y SISTEMA DE PUNTOS GLOBAL
 # ============================================================================
 
-st.title("🎓 Laboratorio - Diplomado de mercado de valores y estrategias de inversión")
+st.title("🎓 Laboratorio Financiero")
 st.markdown("### Aprende sobre gestión de riesgos de forma interactiva")
 
 # Mostrar puntos globales en el sidebar

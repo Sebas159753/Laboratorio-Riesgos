@@ -1,4 +1,4 @@
-# 🎓 Laboratorio de Riesgos – Universidad del Azuay
+# 🎓 Laboratorio Financiero – Bolsa de Valores Quito
 
 Aplicación web interactiva desarrollada con Streamlit para el aprendizaje didáctico sobre gestión de riesgos financieros.
 
